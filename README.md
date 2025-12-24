@@ -34,5 +34,3 @@ This project was tested as part of QA training to practice manual testing of rea
 
 \- Browser DevTools (UI inspection)
 
-
-
