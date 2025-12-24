@@ -12,13 +12,13 @@ This project was tested as part of QA training to practice manual testing of rea
 
 \## Tested Application
 
-\- Web application: https://goitstudentsworks.github.io/js\_70\_melvinsz/index.html
+\- Web application: \[Filmoteka](https://goitstudentsworks.github.io/js\_70\_melvinsz/index.html)
 
 
 
 \## My Work
 
-\- Created test cases for key application functionality
+\- Created test cases for key functionality
 
 \- Performed exploratory and functional testing
 
@@ -43,4 +43,6 @@ This project was tested as part of QA training to practice manual testing of rea
 \- Google Sheets (test cases and bug reports)
 
 \- Browser DevTools (UI inspection)
+
+
 
