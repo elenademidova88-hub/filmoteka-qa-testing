@@ -1,20 +1,14 @@
 \# Filmoteka Web Application Testing (Pet Project)
 
-
-
 \## Project Description
 
 Filmoteka is a web-based movie browsing application.
 
 This project was tested as part of QA training to practice manual testing of real-world user scenarios.
 
-
-
 \## Tested Application
 
 \- Web application: \[Filmoteka](https://goitstudentsworks.github.io/js\_70\_melvinsz/index.html)
-
-
 
 \## My Work
 
@@ -26,8 +20,6 @@ This project was tested as part of QA training to practice manual testing of rea
 
 \- Tested homepage and "My Library" sections
 
-
-
 \## Key Findings
 
 \- UI issues affecting layout and visual consistency
@@ -35,8 +27,6 @@ This project was tested as part of QA training to practice manual testing of rea
 \- Functional defects in movie search and library filtering
 
 \- Content rendering issues on the homepage movie list
-
-
 
 \## Tools Used
 
