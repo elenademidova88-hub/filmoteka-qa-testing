@@ -12,7 +12,7 @@ This project was tested as part of QA training to practice manual testing of rea
 
 \## Tested Application
 
-\- Web application: \[Filmoteka](<https://goitstudentsworks.github.io/js\_70\_melvinsz/index.html>)
+\- Web application: \[Filmoteka](<https://goitstudentsworks.github.io/js_70_melvinsz/index.html>)
 
 
 
